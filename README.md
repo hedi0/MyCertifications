@@ -97,8 +97,4 @@ While this is a personal repository for showcasing certifications, contributions
 *   Use clear and concise language.
 *   Maintain consistent heading hierarchies.
 
-## 📄 License Information
-
-
-**Copyri
-Feel free to use and distribute this repository's content in acco
+## 📄 License Informati
