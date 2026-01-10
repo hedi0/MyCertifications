@@ -52,9 +52,3 @@ Once you have cloned the repository, you can easily browse and access your certi
     # On Windows (using start command)
     start "ISO-IEC 27001-2022 ISA Certificate.pdf"
     ```
-
-### Accessing Online
-
-You can also view individual certifications directly on GitHub by navigating to the file within the repository's web interface. Each PDF file will have a direct link for viewing or downloading.
-
-## 🗓️ Project Roadmap
