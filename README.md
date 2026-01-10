@@ -99,10 +99,7 @@ While this is a personal repository for showcasing certifications, contributions
 
 ## 📄 License Information
 
-This project is licensed under the **Apache License 2.0**.
+You can find the full text of the license in the [LICENSE](LICENSE) file 
 
-You can find the full text of the license in the [LICENSE](LICENSE) file in this repository.
-
-**Copyright (c) 2023 hedi0**
-
+**Copyri
 Feel free to use and distribute this repository's content in accordance with the Apache License 2.0.
