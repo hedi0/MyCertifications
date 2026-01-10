@@ -58,7 +58,3 @@ Once you have cloned the repository, you can easily browse and access your certi
 You can also view individual certifications directly on GitHub by navigating to the file within the repository's web interface. Each PDF file will have a direct link for viewing or downloading.
 
 ## 🗓️ Project Roadmap
-
-This repository is primarily for personal organization and showcase. Future enhancements may include:
-
-*   **Add More Certifications:** Continuously update with new professional certifications as they are obtained.
