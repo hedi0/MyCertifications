@@ -72,13 +72,3 @@ While this is a personal repository for showcasing certifications, contributions
 ### How to Contribute
 
 1.  **Fork the repository.**
-2.  **Create a new branch** for your feature or bug fix:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-    or
-    ```bash
-    git checkout -b fix/your-fix-name
-    ```
-3.  **Make your changes.**
-4.  **Commit your changes** with a clear and descriptive commit message.
