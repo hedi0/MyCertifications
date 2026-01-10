@@ -86,6 +86,3 @@ While this is a personal repository for showcasing certifications, contributions
 6.  **Open a Pull Request** to the `main` branch of this repository, describing your changes and their benefits.
 
 ### Code Style (for Documentation)
-
-*   Ensure Markdown is well-formatted and easy to read.
-*   Use clear and concise language.
