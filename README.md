@@ -62,5 +62,3 @@ You can also view individual certifications directly on GitHub by navigating to 
 This repository is primarily for personal organization and showcase. Future enhancements may include:
 
 *   **Add More Certifications:** Continuously update with new professional certifications as they are obtained.
-*   **Metadata Files:** Explore adding `.json` or `.yml` files alongside certificates for structured metadata (e.g., expiry dates, issuing body, certification ID).
-*   **Index Page:** Potentially create an `index.html` or a more detailed Markdown file to list and link all certifications with brief descriptions.
