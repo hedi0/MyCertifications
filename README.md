@@ -67,8 +67,4 @@ This repository is primarily for personal organization and showcase. Future enha
 
 ## 🤝 Contribution Guidelines
 
-While this is a personal repository for showcasing certifications, contributions are welcome for improvements to the repository's structure, documentation, or `README.md` itself.
 
-### How to Contribute
-
-1.  **Fork the repository.**
