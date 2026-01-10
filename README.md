@@ -89,6 +89,3 @@ While this is a personal repository for showcasing certifications, contributions
 
 *   Ensure Markdown is well-formatted and easy to read.
 *   Use clear and concise language.
-*   Maintain consistent heading hierarchies.
-
-## 📄 License Informati
