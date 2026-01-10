@@ -82,7 +82,3 @@ While this is a personal repository for showcasing certifications, contributions
     ```
 3.  **Make your changes.**
 4.  **Commit your changes** with a clear and descriptive commit message.
-5.  **Push your branch** to your forked repository.
-6.  **Open a Pull Request** to the `main` branch of this repository, describing your changes and their benefits.
-
-### Code Style (for Documentation)
