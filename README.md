@@ -7,7 +7,7 @@ A centralized repository to showcase and manage my professional certifications.
 ![Stars](https://img.shields.io/github/stars/hedi0/MyCertifications?style=social)
 ![Forks](https://img.shields.io/github/forks/hedi0/MyCertifications?style=social)
 
-![example-preview-image](/preview_example.png)
+![Certifications Earned](/preview_example.png)
 
 ---
 
@@ -32,13 +32,7 @@ This repository primarily serves as a collection of documents. To access the cer
     git clone https://github.com/hedi0/MyCertifications.git
     ```
 
-4.  **Change into the repository directory:**
 
-    ```bash
-    cd MyCertifications
-    ```
-
-You now have a local copy of all the certification documents.
 
 ## 💡 Usage Examples
 
