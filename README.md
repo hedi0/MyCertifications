@@ -7,7 +7,7 @@ A centralized repository to showcase and manage my professional certifications.
 ![Stars](https://img.shields.io/github/stars/hedi0/MyCertifications?style=social)
 ![Forks](https://img.shields.io/github/forks/hedi0/MyCertifications?style=social)
 
-![Certifications Earned](/preview_example.png)
+![Certifications_Earned](/preview_example.png)
 
 ---
 
