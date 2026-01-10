@@ -99,7 +99,6 @@ While this is a personal repository for showcasing certifications, contributions
 
 ## 📄 License Information
 
-You can find the full text of the license in the [LICENSE](LICENSE) file 
-
+You c
 **Copyri
 Feel free to use and distribute this repository's content in accordance with the Apache License 2.0.
