@@ -45,4 +45,4 @@ Once you have cloned the repository, you can easily browse and access your certi
 
     For example, to view the `ISO-IEC 27001-2022 ISA Certificate.pdf` fil
     open "ISO-IEC 27001-2022 ISA Certificate.p
-    # On Win
+    # O
