@@ -41,4 +41,4 @@ Once you have cloned the repository, you can easily browse and access your certi
 ### Viewing Certifications
 1.  **Navigate to the repository directory** on your local machine.
 2.  **Open any of the `.pdf` files** directly using your preferred PD
-    For example, to view the `ISO-IEC
+    For example, to view the `I
