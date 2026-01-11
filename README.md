@@ -43,10 +43,7 @@ Once you have cloned the repository, you can easily browse and access your certi
 1.  **Navigate to the repository directory** on your local machine.
 2.  **Open any of the `.pdf` files** directly using your preferred PDF viewer.
 
-    For example, to view the `ISO-IEC 27001-2022 ISA Certificate.pdf` file:
-
-    ```bash
-    # On macOS/Linux
+    For example, to view the `ISO-IEC 27001-2022 ISA Certificate.pdf` fil
     open "ISO-IEC 27001-2022 ISA Certificate.pdf"
 
     # On Win
