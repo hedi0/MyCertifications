@@ -49,5 +49,5 @@ Once you have cloned the repository, you can easily browse and access your certi
     # On macOS/Linux
     open "ISO-IEC 27001-2022 ISA Certificate.pdf"
 
-    # On Windows (using start co
+    # On Windows (using s
     start "ISO-IEC 2
