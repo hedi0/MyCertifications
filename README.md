@@ -39,7 +39,6 @@ This repository primarily serves as a collection of documents. To access the cer
 Once you have cloned the repository, you can easily browse and access your certification files.
 
 ### Viewing Certifications
-
 1.  **Navigate to the repository directory** on your local machine.
 2.  **Open any of the `.pdf` files** directly using your preferred PD
-    For example, to view the `ISO-IEC 27001-2022 
+    For example, to view the `ISO-IEC 2700
