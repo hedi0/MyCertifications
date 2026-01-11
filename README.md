@@ -44,5 +44,5 @@ Once you have cloned the repository, you can easily browse and access your certi
 2.  **Open any of the `.pdf` files** directly using your preferred PDF viewer.
 
     For example, to view the `ISO-IEC 27001-2022 ISA Certificate.pd
-    open "ISO-IEC 27001-2022 ISA Certificate.p
+    open "ISO-IEC 27001-2022 ISA Certif
     # O
