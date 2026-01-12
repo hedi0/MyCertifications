@@ -24,5 +24,4 @@ This repository primarily serves as a collection of documents. To access the cer
 
 ### Cloning the Repository
 
-1.  **Open your terminal or command prompt.**
-2.  **Navigate to th
+1.  **Open your terminal or command prom
