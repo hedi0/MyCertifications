@@ -25,5 +25,4 @@ This repository primarily serves as a collection of documents. To access the cer
 ### Cloning the Repository
 
 1.  **Open your terminal or command prompt.**
-2.  **Navigate to the directory** where you want to store the repository.
-   
+2.  **Navigate to the directory** where you want to store the repos
