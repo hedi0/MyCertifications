@@ -30,10 +30,4 @@ This repository primarily serves as a collection of documents. To access the cer
 
     ```bash
     git clone https://github.com/hedi0/MyCertifications.git
-    ```
-
-
-
-## 💡 Usage Examples
-
-Onc
+    ``
