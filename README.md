@@ -29,5 +29,4 @@ This repository primarily serves as a collection of documents. To access the cer
 3.  **Execute the following command** to clone the repository:
 
     ```bash
-    git clone https://github.com/hedi0/MyCertifications.git
-    ``
+    git clone https://github.com/hedi0/MyCertification
