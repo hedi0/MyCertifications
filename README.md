@@ -39,4 +39,4 @@ This repository primarily serves as a collection of documents. To access the cer
 Once you have cloned the repository, you can easily browse and access your certification files.
 
 ### Viewing Certifications
-1.  **Navigate to the repository directory** on y
+1.  **Navigate to the repo
