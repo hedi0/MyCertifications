@@ -40,4 +40,4 @@ Once you have cloned the repository, you can easily browse and access your certi
 
 ### Viewing Certifications
 1.  **Navigate to the repository directory** on your local machine.
-2.  **Open any of the `.pdf` file
+2.  **Open any of the `
