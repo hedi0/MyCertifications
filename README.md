@@ -36,6 +36,4 @@ This repository primarily serves as a collection of documents. To access the cer
 
 ## 💡 Usage Examples
 
-Once you have cloned the repository, you can easily browse and access your certification files.
-
-### Viewing Cer
+Once you have cloned the repository, you can easily browse and access your certificatio
