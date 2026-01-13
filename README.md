@@ -20,4 +20,4 @@ A centralized repository to showcase and manage my professional certifications.
 
 ## 🚀 Installation Guide
 
-This repository primarily serves
+This repository primarily 
