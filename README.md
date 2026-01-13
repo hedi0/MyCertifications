@@ -18,4 +18,4 @@ A centralized repository to showcase and manage my professional certifications.
 *   **🔗 Shareable:** Easily link to individual certification PDF files for verification on professional networks or job applications.
 *   **🔒 Secure & Persistent:** Store your credentials in a GitHub repository, benefiting from version history and robust availability.
 
-## 🚀 Installation
+## 🚀 Installa
