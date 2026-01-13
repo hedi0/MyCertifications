@@ -20,6 +20,4 @@ A centralized repository to showcase and manage my professional certifications.
 
 ## 🚀 Installation Guide
 
-This repository primarily serves as a collection of documents. To access the certification files, you can clone the repository to your local machine.
-
-#
+This repository primarily serves as a collection of documents. To access the certification files, you can clone the repository to your local mac
