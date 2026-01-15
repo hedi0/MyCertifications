@@ -14,4 +14,4 @@ A centralized repository to showcase and manage my professional certifications.
 ## ✨ Features
 
 *   **✅ Easy Access:** Quickly view and share all your professional certifications from a single, organized location.
-*   **🗂️ Centralized Storage:** Keep all your valuable certificates and credentials in one secure, ver
+*   **🗂️ Centralized Storage:** Keep all your valuable certificates and credentials in one secure,
