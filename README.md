@@ -15,4 +15,4 @@ A centralized repository to showcase and manage my professional certifications.
 
 *   **✅ Easy Access:** Quickly view and share all your professional certifications from a single, organized location.
 *   **🗂️ Centralized Storage:** Keep all your valuable certificates and credentials in one secure, version-controlled repository.
-*   **🔗 Shareable:** Easily link to individual
+*   **🔗 Shareable:** Easily link to in
